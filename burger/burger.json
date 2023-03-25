@@ -2,10 +2,14 @@
     "ads" : [
         {
             "demo" : "true",
-            "activate_ads" : "true",
             "activate_ads_game" : "true",
             "activate_banner" : "on",
             "activate_inter" : "on",
+            
+            
+            
+            
+            "activate_ads" : "false",
             
             "network" : "max",
 
